@@ -1,0 +1,23 @@
+# Environments & Secrets
+.env
+*.env
+**/ .env
+
+# Python Virtual Environments
+venv/
+.venv/
+**/venv/
+**/ .venv/
+__pycache__/
+*.pyc
+
+# Node & Frontend Build
+node_modules/
+**/node_modules/
+dist/
+**/dist/
+
+# OS/IDE metadata
+.DS_Store
+.vscode/
+.idea/
